@@ -1,0 +1,3 @@
+[submodule "XCatsScoutingLib"]
+	path = XCatsScoutingLib
+	url = https://github.com/X-Cats/XCatsScoutingLib.git
